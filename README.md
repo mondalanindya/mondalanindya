@@ -14,7 +14,7 @@
 
 ## About Me
 
-- 🔬 **Research Associate** at [CVSSP](https://www.surrey.ac.uk/centre-vision-speech-signal-processing), University of Surrey, Guildford, UK
+- 🔬 **PhD Student** at [CVSSP](https://www.surrey.ac.uk/centre-vision-speech-signal-processing), University of Surrey, Guildford, UK
 - 🧠 Working on **Object Counting**, **Multi-label Action Recognition**, and **Event-based Vision**
 - 🤝 Interested in **Vision-Language Models**, **Foundation Models**, and **Graph Signal Processing**
 - 💼 Open to collaborations, research opportunities, and industry roles
