@@ -21,7 +21,7 @@ My research focuses on building robust vision systems by integrating multi-modal
 - 📍 Guildford, UK
 - 🎓 Teaching Assistant — Applied ML (EEEM068) & Advanced CV and Deep Learning (EEEM071), University of Surrey
 - 💼 Open to collaborations, research & industry opportunities
-- 📫 **anindyam.jan@gmail.com**
+- 📫 **anindyam[dot]jan[at]gmail[dot]com**
 
 ---
 
