@@ -2,7 +2,7 @@
 
 # Hi, I'm Anindya Mondal 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=750&lines=PhD+Researcher+%40+CVSSP%2C+University+of+Surrey;Object+Counting+%7C+Multi-label+Action+Recognition;Event-based+Vision+%7C+Graph+Signal+Processing;Vision-Language+Models+%7C+Text-to-Image+Generation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=750&lines=PhD+Researcher+%40+CVSSP%2C+University+of+Surrey;Spatial+Reasoning+%7C+Multi-label+Action+Recognition;Compositional+Generation+%7C+Self-correcting+Loops;Vision-Language+Models+%7C+Text-to-Image+Generation" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=mondalanindya&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/mondalanindya)
 [![Twitter Follow](https://img.shields.io/twitter/follow/anindmondal?style=social)](https://twitter.com/anindmondal)
