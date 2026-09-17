@@ -14,9 +14,9 @@
 
 ## About Me
 
-I am a **PhD Researcher** at the [Centre for Vision, Speech and Signal Processing (CVSSP)](https://www.surrey.ac.uk/centre-vision-speech-signal-processing) and the [Surrey Institute for People-Centred AI](https://www.surrey.ac.uk/institute-people-centred-ai), University of Surrey, Guildford, UK.
+I am a **PhD Researcher** at the [Centre for Vision, Speech and Signal Processing (CVSSP)](https://www.surrey.ac.uk/centre-vision-speech-signal-processing) and the [Surrey Institute for People-Centred AI](https://www.surrey.ac.uk/institute-people-centred-ai), University of Surrey, Guildford, UK. I'm also a research intern at [Adobe](https://research.adobe.com/).
 
-My research focuses on building robust vision systems by integrating multi-modal signals — with emphasis on **object counting**, **multi-label action recognition**, **event-based vision**, and **text-to-image generation** using vision-language and foundation models.
+My research focuses on establishing **verifiable spatial reasoning**, **compositional generation**, and **self-correcting capabilities in multimodal foundation models**.
 
 - 📍 Guildford, UK
 - 🎓 Teaching Assistant — Applied ML (EEEM068) & Advanced CV and Deep Learning (EEEM071), University of Surrey
