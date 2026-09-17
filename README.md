@@ -53,11 +53,7 @@ My research focuses on establishing **verifiable spatial reasoning**, **composit
 <div align="center">
 
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-informational?style=for-the-badge&color=4B8BBE)
-![Object Counting](https://img.shields.io/badge/Object%20Counting-informational?style=for-the-badge&color=306998)
-![Action Recognition](https://img.shields.io/badge/Action%20Recognition-informational?style=for-the-badge&color=FFD43B)
 ![Text-to-Image Generation](https://img.shields.io/badge/Text--to--Image%20Gen-informational?style=for-the-badge&color=FF6B6B)
-![Event-based Vision](https://img.shields.io/badge/Event--based%20Vision-informational?style=for-the-badge&color=646464)
-![Graph Signal Processing](https://img.shields.io/badge/Graph%20Signal%20Processing-informational?style=for-the-badge&color=0e75b6)
 ![Vision-Language Models](https://img.shields.io/badge/Vision--Language%20Models-informational?style=for-the-badge&color=2ea44f)
 ![Foundation Models](https://img.shields.io/badge/Foundation%20Models-informational?style=for-the-badge&color=8B0000)
 
